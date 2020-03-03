@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/solomononsun/static/css/main.c586c395.chunk.css",
-    "main.js": "/solomononsun/static/js/main.9f67c799.chunk.js",
-    "main.js.map": "/solomononsun/static/js/main.9f67c799.chunk.js.map",
+    "main.css": "/solomononsun/static/css/main.f6aaa3fd.chunk.css",
+    "main.js": "/solomononsun/static/js/main.5ee35ce9.chunk.js",
+    "main.js.map": "/solomononsun/static/js/main.5ee35ce9.chunk.js.map",
     "runtime-main.js": "/solomononsun/static/js/runtime-main.946460df.js",
     "runtime-main.js.map": "/solomononsun/static/js/runtime-main.946460df.js.map",
     "static/css/2.47e06e2e.chunk.css": "/solomononsun/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.4d85bd71.chunk.js": "/solomononsun/static/js/2.4d85bd71.chunk.js",
-    "static/js/2.4d85bd71.chunk.js.map": "/solomononsun/static/js/2.4d85bd71.chunk.js.map",
+    "static/js/2.1544141b.chunk.js": "/solomononsun/static/js/2.1544141b.chunk.js",
+    "static/js/2.1544141b.chunk.js.map": "/solomononsun/static/js/2.1544141b.chunk.js.map",
     "index.html": "/solomononsun/index.html",
-    "precache-manifest.c424a89005444d612d66e109fddfc7e3.js": "/solomononsun/precache-manifest.c424a89005444d612d66e109fddfc7e3.js",
+    "precache-manifest.7dbe94d6de52a78611a0a6cd5c9f2d58.js": "/solomononsun/precache-manifest.7dbe94d6de52a78611a0a6cd5c9f2d58.js",
     "service-worker.js": "/solomononsun/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/solomononsun/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.c586c395.chunk.css.map": "/solomononsun/static/css/main.c586c395.chunk.css.map",
-    "static/js/2.4d85bd71.chunk.js.LICENSE.txt": "/solomononsun/static/js/2.4d85bd71.chunk.js.LICENSE.txt"
+    "static/css/main.f6aaa3fd.chunk.css.map": "/solomononsun/static/css/main.f6aaa3fd.chunk.css.map",
+    "static/js/2.1544141b.chunk.js.LICENSE.txt": "/solomononsun/static/js/2.1544141b.chunk.js.LICENSE.txt",
+    "static/media/Cat.png": "/solomononsun/static/media/Cat.5915aabd.png",
+    "static/media/food1.jpg": "/solomononsun/static/media/food1.aa26238c.jpg",
+    "static/media/food2.jpg": "/solomononsun/static/media/food2.cd5e139c.jpg",
+    "static/media/food3.jpg": "/solomononsun/static/media/food3.38cb9891.jpg",
+    "static/media/foodFirstCat.png": "/solomononsun/static/media/foodFirstCat.89a3996a.png",
+    "static/media/foodSecondCat.jpg": "/solomononsun/static/media/foodSecondCat.82a8c4d8.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.946460df.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.4d85bd71.chunk.js",
-    "static/css/main.c586c395.chunk.css",
-    "static/js/main.9f67c799.chunk.js"
+    "static/js/2.1544141b.chunk.js",
+    "static/css/main.f6aaa3fd.chunk.css",
+    "static/js/main.5ee35ce9.chunk.js"
   ]
 }
