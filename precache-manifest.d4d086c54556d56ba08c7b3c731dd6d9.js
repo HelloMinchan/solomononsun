@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b73f92998f9ce0ea827cdd71338344a4",
+    "revision": "9c9533efc564a2eb0ace7094faf6f6f7",
     "url": "/solomononsun/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solomononsun/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "15a17838ed1de320d62f",
+    "revision": "29fe7a0f1469154316e4",
     "url": "/solomononsun/static/css/main.74c44d32.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solomononsun/static/js/2.88e509ff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15a17838ed1de320d62f",
-    "url": "/solomononsun/static/js/main.42ec2945.chunk.js"
+    "revision": "29fe7a0f1469154316e4",
+    "url": "/solomononsun/static/js/main.38dbd56b.chunk.js"
   },
   {
     "revision": "8bd7480deb5bd170e20d",
