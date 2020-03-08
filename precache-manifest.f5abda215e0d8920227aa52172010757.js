@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb5084042db568b07bb26b0e16b608ee",
+    "revision": "957aba5c3f57f2f8af292bab6aa19ac3",
     "url": "/solomononsun/index.html"
   },
   {
-    "revision": "f0cd0963503d27401966",
+    "revision": "6f7a14ed0e438de4d7d3",
     "url": "/solomononsun/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "4ccb62d72d61975b14c5",
-    "url": "/solomononsun/static/css/main.c1fd9de8.chunk.css"
+    "revision": "6c7463eecbff82887da3",
+    "url": "/solomononsun/static/css/main.92eae372.chunk.css"
   },
   {
-    "revision": "f0cd0963503d27401966",
-    "url": "/solomononsun/static/js/2.19460098.chunk.js"
+    "revision": "6f7a14ed0e438de4d7d3",
+    "url": "/solomononsun/static/js/2.89fdab64.chunk.js"
   },
   {
-    "revision": "bcf90f0199639c1365dc3312314ba716",
-    "url": "/solomononsun/static/js/2.19460098.chunk.js.LICENSE.txt"
+    "revision": "dab6bc29ac9f3c9d09e25c3e85b28dd6",
+    "url": "/solomononsun/static/js/2.89fdab64.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4ccb62d72d61975b14c5",
-    "url": "/solomononsun/static/js/main.fe08183d.chunk.js"
+    "revision": "6c7463eecbff82887da3",
+    "url": "/solomononsun/static/js/main.15c823fa.chunk.js"
   },
   {
     "revision": "8bd7480deb5bd170e20d",

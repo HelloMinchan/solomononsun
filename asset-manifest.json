@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/solomononsun/static/css/main.c1fd9de8.chunk.css",
-    "main.js": "/solomononsun/static/js/main.fe08183d.chunk.js",
-    "main.js.map": "/solomononsun/static/js/main.fe08183d.chunk.js.map",
+    "main.css": "/solomononsun/static/css/main.92eae372.chunk.css",
+    "main.js": "/solomononsun/static/js/main.15c823fa.chunk.js",
+    "main.js.map": "/solomononsun/static/js/main.15c823fa.chunk.js.map",
     "runtime-main.js": "/solomononsun/static/js/runtime-main.946460df.js",
     "runtime-main.js.map": "/solomononsun/static/js/runtime-main.946460df.js.map",
     "static/css/2.47e06e2e.chunk.css": "/solomononsun/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.19460098.chunk.js": "/solomononsun/static/js/2.19460098.chunk.js",
-    "static/js/2.19460098.chunk.js.map": "/solomononsun/static/js/2.19460098.chunk.js.map",
+    "static/js/2.89fdab64.chunk.js": "/solomononsun/static/js/2.89fdab64.chunk.js",
+    "static/js/2.89fdab64.chunk.js.map": "/solomononsun/static/js/2.89fdab64.chunk.js.map",
     "index.html": "/solomononsun/index.html",
-    "precache-manifest.9eb4c811e2bbcbc02223be959b140e3f.js": "/solomononsun/precache-manifest.9eb4c811e2bbcbc02223be959b140e3f.js",
+    "precache-manifest.f5abda215e0d8920227aa52172010757.js": "/solomononsun/precache-manifest.f5abda215e0d8920227aa52172010757.js",
     "service-worker.js": "/solomononsun/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/solomononsun/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.c1fd9de8.chunk.css.map": "/solomononsun/static/css/main.c1fd9de8.chunk.css.map",
-    "static/js/2.19460098.chunk.js.LICENSE.txt": "/solomononsun/static/js/2.19460098.chunk.js.LICENSE.txt",
+    "static/css/main.92eae372.chunk.css.map": "/solomononsun/static/css/main.92eae372.chunk.css.map",
+    "static/js/2.89fdab64.chunk.js.LICENSE.txt": "/solomononsun/static/js/2.89fdab64.chunk.js.LICENSE.txt",
     "static/media/cat.jpg": "/solomononsun/static/media/cat.19801931.jpg",
     "static/media/food1.png": "/solomononsun/static/media/food1.d76c1c9d.png",
     "static/media/food2.png": "/solomononsun/static/media/food2.1c8f46c2.png",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.946460df.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.19460098.chunk.js",
-    "static/css/main.c1fd9de8.chunk.css",
-    "static/js/main.fe08183d.chunk.js"
+    "static/js/2.89fdab64.chunk.js",
+    "static/css/main.92eae372.chunk.css",
+    "static/js/main.15c823fa.chunk.js"
   ]
 }
