@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7dbf27f02a2887d9df2abf9f1ec41799",
+    "revision": "8a939f4f259b1a6ac47e590b7060c394",
     "url": "/solomononsun/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solomononsun/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "378ba1e4599c96e7093b",
+    "revision": "7021ffb9476040fe9d6b",
     "url": "/solomononsun/static/css/main.92eae372.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solomononsun/static/js/2.728a5f6a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "378ba1e4599c96e7093b",
-    "url": "/solomononsun/static/js/main.405e8e0d.chunk.js"
+    "revision": "7021ffb9476040fe9d6b",
+    "url": "/solomononsun/static/js/main.4dbb92c4.chunk.js"
   },
   {
     "revision": "8bd7480deb5bd170e20d",
@@ -72,20 +72,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solomononsun/static/media/foodCat0Second.bfe8120c.png"
   },
   {
-    "revision": "7c56bc0b9fd1ead3afac7daeed51a716",
-    "url": "/solomononsun/static/media/foodCat1First.7c56bc0b.png"
+    "revision": "25a20d52fb9dfe77bc157badbb983360",
+    "url": "/solomononsun/static/media/foodCat1First.25a20d52.png"
   },
   {
-    "revision": "d81c25cef3c500a82989f3adf6a157f6",
-    "url": "/solomononsun/static/media/foodCat1Second.d81c25ce.png"
+    "revision": "9884ebb88476942dece3fe56567cf278",
+    "url": "/solomononsun/static/media/foodCat1Second.9884ebb8.png"
   },
   {
     "revision": "7fdaed743a9351102a3e8c0289319033",
     "url": "/solomononsun/static/media/foodCat2First.7fdaed74.png"
   },
   {
-    "revision": "9884ebb88476942dece3fe56567cf278",
-    "url": "/solomononsun/static/media/foodCat2Second.9884ebb8.png"
+    "revision": "7c56bc0b9fd1ead3afac7daeed51a716",
+    "url": "/solomononsun/static/media/foodCat2Second.7c56bc0b.png"
   },
   {
     "revision": "9dd9ef3a431506a31ecdb2dd5af3d2e8",

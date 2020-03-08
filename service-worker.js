@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/solomononsun/precache-manifest.c1f1c7c1f4dffe775eeffecf27c2ff63.js"
+  "/solomononsun/precache-manifest.21721a9859c216bd6be7d0be3a18bf8c.js"
 );
 
 self.addEventListener('message', (event) => {
