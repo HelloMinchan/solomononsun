@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/solomononsun/static/css/main.3b6f0519.chunk.css",
-    "main.js": "/solomononsun/static/js/main.bdf7235a.chunk.js",
-    "main.js.map": "/solomononsun/static/js/main.bdf7235a.chunk.js.map",
+    "main.js": "/solomononsun/static/js/main.f643c20a.chunk.js",
+    "main.js.map": "/solomononsun/static/js/main.f643c20a.chunk.js.map",
     "runtime-main.js": "/solomononsun/static/js/runtime-main.946460df.js",
     "runtime-main.js.map": "/solomononsun/static/js/runtime-main.946460df.js.map",
     "static/css/2.47e06e2e.chunk.css": "/solomononsun/static/css/2.47e06e2e.chunk.css",
     "static/js/2.edb049ff.chunk.js": "/solomononsun/static/js/2.edb049ff.chunk.js",
     "static/js/2.edb049ff.chunk.js.map": "/solomononsun/static/js/2.edb049ff.chunk.js.map",
     "index.html": "/solomononsun/index.html",
-    "precache-manifest.52e9580883a38905f77a6181c2e6881e.js": "/solomononsun/precache-manifest.52e9580883a38905f77a6181c2e6881e.js",
+    "precache-manifest.e74286b8d10622166783bf84057875d5.js": "/solomononsun/precache-manifest.e74286b8d10622166783bf84057875d5.js",
     "service-worker.js": "/solomononsun/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/solomononsun/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.3b6f0519.chunk.css.map": "/solomononsun/static/css/main.3b6f0519.chunk.css.map",
@@ -47,6 +47,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.edb049ff.chunk.js",
     "static/css/main.3b6f0519.chunk.css",
-    "static/js/main.bdf7235a.chunk.js"
+    "static/js/main.f643c20a.chunk.js"
   ]
 }
