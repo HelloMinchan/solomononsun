@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70533465dd1031fe4d270ad17a8c28a2",
+    "revision": "7dbf27f02a2887d9df2abf9f1ec41799",
     "url": "/solomononsun/index.html"
   },
   {
-    "revision": "6f7a14ed0e438de4d7d3",
+    "revision": "746c14ad1f55239c5b6b",
     "url": "/solomononsun/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "fdf5e7ec8d2f72c3e965",
+    "revision": "378ba1e4599c96e7093b",
     "url": "/solomononsun/static/css/main.92eae372.chunk.css"
   },
   {
-    "revision": "6f7a14ed0e438de4d7d3",
-    "url": "/solomononsun/static/js/2.89fdab64.chunk.js"
+    "revision": "746c14ad1f55239c5b6b",
+    "url": "/solomononsun/static/js/2.728a5f6a.chunk.js"
   },
   {
     "revision": "dab6bc29ac9f3c9d09e25c3e85b28dd6",
-    "url": "/solomononsun/static/js/2.89fdab64.chunk.js.LICENSE.txt"
+    "url": "/solomononsun/static/js/2.728a5f6a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fdf5e7ec8d2f72c3e965",
-    "url": "/solomononsun/static/js/main.5ab7b0a3.chunk.js"
+    "revision": "378ba1e4599c96e7093b",
+    "url": "/solomononsun/static/js/main.405e8e0d.chunk.js"
   },
   {
     "revision": "8bd7480deb5bd170e20d",
     "url": "/solomononsun/static/js/runtime-main.946460df.js"
-  },
-  {
-    "revision": "1980193114c5b43d9c9cce44cde9dccd",
-    "url": "/solomononsun/static/media/cat.19801931.jpg"
   },
   {
     "revision": "d76c1c9de3d5cfba4c7d7afc22d49ae6",
@@ -68,11 +64,31 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solomononsun/static/media/food9.f632a7d1.png"
   },
   {
-    "revision": "f9156089d4c6311240df329314cc71d1",
-    "url": "/solomononsun/static/media/foodFirstCat.f9156089.jpg"
+    "revision": "43b4e882937e4bf75897d0de186edd59",
+    "url": "/solomononsun/static/media/foodCat0First.43b4e882.png"
   },
   {
-    "revision": "553dc8abccd0af7cf45c4dbd2f1a9bcc",
-    "url": "/solomononsun/static/media/foodSecondCat.553dc8ab.jpg"
+    "revision": "bfe8120c11056ae276c1f677ae1887eb",
+    "url": "/solomononsun/static/media/foodCat0Second.bfe8120c.png"
+  },
+  {
+    "revision": "7c56bc0b9fd1ead3afac7daeed51a716",
+    "url": "/solomononsun/static/media/foodCat1First.7c56bc0b.png"
+  },
+  {
+    "revision": "d81c25cef3c500a82989f3adf6a157f6",
+    "url": "/solomononsun/static/media/foodCat1Second.d81c25ce.png"
+  },
+  {
+    "revision": "7fdaed743a9351102a3e8c0289319033",
+    "url": "/solomononsun/static/media/foodCat2First.7fdaed74.png"
+  },
+  {
+    "revision": "9884ebb88476942dece3fe56567cf278",
+    "url": "/solomononsun/static/media/foodCat2Second.9884ebb8.png"
+  },
+  {
+    "revision": "9dd9ef3a431506a31ecdb2dd5af3d2e8",
+    "url": "/solomononsun/static/media/mainCat.9dd9ef3a.png"
   }
 ]);
